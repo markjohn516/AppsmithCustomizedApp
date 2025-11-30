@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "692bf57228b3f9480ff8213a_c7b63340-ee4d-460d-99f8-c9bc4d8101e2",
+  "id": "Page1_data",
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "items",
+        "value": "undefined"
+      },
+      {
+        "name": "dummyItems",
+        "value": "[{\n  itemName: 'raincoat',\n  available: true\n}, {\n  itemName: 'boots',\n  available: true\n}, {\n  itemName: 'tents',\n  available: true\n}, {\n  itemName: 'ropes',\n  available: true\n}]"
+      }
+    ]
+  }
+}
