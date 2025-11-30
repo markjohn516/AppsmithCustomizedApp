@@ -6,10 +6,11 @@ export default {
 		if (data.items[id]) {
 			data.items[id] = { ...data.items[id], ...item };
 		} else {
+			data.items[id] = { ...data.items[id], ...item };
 			console.warn(`updateItem: No item found at index ${id}`);
 		}
 	},
 	addItem(itemName) {
-		data.items.push({ itemName, available: true });
+		this.updateItem(data.items.length, itemName);
 	}
 }

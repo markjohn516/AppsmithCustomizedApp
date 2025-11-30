@@ -15,11 +15,6 @@
     }
   ],
   "dynamicHeight": "FIXED",
-  "dynamicPropertyPathList": [
-    {
-      "key": "resetOnSubmit"
-    }
-  ],
   "dynamicTriggerPathList": [
     {
       "key": "onSubmit"
@@ -31,8 +26,8 @@
   "isLoading": false,
   "isRequired": false,
   "isVisible": true,
-  "key": "rzckbh0lsj",
-  "label": "Add item",
+  "key": "zyt7khjxya",
+  "label": "Add Item\n",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
@@ -44,22 +39,21 @@
   "minWidth": 450,
   "mobileBottomRow": 7,
   "mobileLeftColumn": 0,
-  "mobileRightColumn": 11,
+  "mobileRightColumn": 14,
   "mobileTopRow": 0,
   "needsErrorInfo": false,
-  "onSubmit": "{{app.addItem(addInput.text);}}",
+  "onSubmit": "{{app.addItem(Input1.text);}}",
   "parentColumnSpace": 6.53125,
   "parentId": "c99ktpgw80",
   "parentRowSpace": 10,
-  "placeholderText": "New item\n",
   "renderMode": "CANVAS",
-  "resetOnSubmit": "true",
+  "resetOnSubmit": true,
   "responsiveBehavior": "fill",
   "rightColumn": 64,
   "showStepArrows": false,
   "topRow": 0,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
-  "widgetId": "li24d5v47b",
-  "widgetName": "addInput"
+  "widgetId": "447r8u17gm",
+  "widgetName": "Input1"
 }

@@ -29,7 +29,7 @@
     "fullyQualifiedName": "app.addItem",
     "name": "addItem",
     "pageId": "Page1",
-    "runBehaviour": "AUTOMATIC",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }

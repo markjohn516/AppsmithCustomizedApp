@@ -32,7 +32,7 @@
     "fullyQualifiedName": "app.updateItem",
     "name": "updateItem",
     "pageId": "Page1",
-    "runBehaviour": "AUTOMATIC",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }
